@@ -6,7 +6,7 @@
 %define	pdir	Email
 %define	pnam	FolderType
 Summary:	Email::FolderType - return type of a mail folder
-#Summary(pl):	
+Summary(pl):	Email::FolderType - sprawdzenie rodzaju folderu pocztowego
 Name:		perl-Email-FolderType
 Version:	0.5
 Release:	1
@@ -26,8 +26,9 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Provides a utility module for detecting the type of a given mail box.
 
-# %description -l pl
-# TODO
+%description -l pl
+Jest to modu³ narzêdziowy do wykrywania rodzaju podanej skrzynki
+pocztowej.
 
 %prep
 %setup -q -n %{pdir}-%{pnam}-%{version}

@@ -11,7 +11,7 @@ Name:		perl-Email-FolderType
 Version:	0.6
 Release:	1
 # same as perl
-License:	GPL/Artistic
+License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
 # Source0-md5:	54a74b1fd8f5bfedabc82808c1fa7502

@@ -3,8 +3,8 @@
 %bcond_without	tests	# do not perform "make test"
 #
 %include	/usr/lib/rpm/macros.perl
-%define	pdir	Email
-%define	pnam	FolderType
+%define		pdir	Email
+%define		pnam	FolderType
 Summary:	Email::FolderType - return type of a mail folder
 Summary(pl):	Email::FolderType - sprawdzenie rodzaju folderu pocztowego
 Name:		perl-Email-FolderType

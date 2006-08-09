@@ -19,6 +19,7 @@ BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
 %if %{with tests}
 BuildRequires:	perl-Test-Simple >= 0.47
+BuildRequires:	perl-Module-Pluggable
 %endif
 Conflicts:	perl-Email-FolderType-Net <= 0:1.02
 BuildArch:	noarch

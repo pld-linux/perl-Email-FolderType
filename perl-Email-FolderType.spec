@@ -9,7 +9,7 @@ Summary:	Email::FolderType - return type of a mail folder
 Summary(pl.UTF-8):	Email::FolderType - sprawdzenie rodzaju folderu pocztowego
 Name:		perl-Email-FolderType
 Version:	0.813
-Release:	1
+Release:	2
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl

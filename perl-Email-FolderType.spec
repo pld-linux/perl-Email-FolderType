@@ -8,13 +8,13 @@
 Summary:	Email::FolderType - return type of a mail folder
 Summary(pl.UTF-8):	Email::FolderType - sprawdzenie rodzaju folderu pocztowego
 Name:		perl-Email-FolderType
-Version:	0.813
-Release:	2
+Version:	0.814
+Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/Email/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	4d33367e38ec1548737c15ccd200f18c
+# Source0-md5:	952aad6ab391737932dc32c6e5c17d26
 URL:		http://search.cpan.org/dist/Email-FolderType/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
